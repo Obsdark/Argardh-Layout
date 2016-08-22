@@ -1,0 +1,30 @@
+.container_mid
+{
+	width: 76em;
+	padding: 7px 17px 0 17px;
+	float: left;
+	background: url('../images/midcnt_bg.png') repeat-y;
+	background-size: 100%;
+	min-height: 750px;
+	position: relative;
+	color: #a78e6d;
+	top: -.6em; left: -4.7em;
+}
+
+.container_cnt
+{
+	width: 69.9em;
+	margin: 3px auto 0 auto;
+}
+
+.container_mid_foot
+{
+	width: 81.25em;
+	height: 36px;
+	z-index: 3;
+	position: absolute;
+	background: url('../images/midcnt_bot.png') no-repeat;
+	background-size: 100%;
+	bottom:-1.3em;
+	left: -1.1em;
+}
